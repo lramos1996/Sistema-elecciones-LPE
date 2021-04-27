@@ -1,4 +1,4 @@
-# Sistema-elecciones-en-C-
+# Sistema-elecciones-en-C++
 Sistema de elecciones desarrollado con c++
 Este es un sistema elaborado para el curso de Lenguaje de Programación Estructurado FIIS-UNI
 Para probarlo usamos los datos de ONPE de las elecciones 2016 segunda vuelta.
