@@ -28,6 +28,8 @@ primeras interfaces gráficas.
 ![image](https://user-images.githubusercontent.com/59323925/116297289-bb89c780-a760-11eb-84c8-4cab0a8244f0.png)
 
  - En cada opcion te permite agregar y eliminar.
+
+
  ![image](https://user-images.githubusercontent.com/59323925/116297422-dbb98680-a760-11eb-868d-8202cec7d52d.png)
  
  Asi hay varias funciones y pantallas por explorar en ese sistema!
