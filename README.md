@@ -6,6 +6,8 @@ Para probarlo usamos los datos de ONPE de las elecciones 2016 segunda vuelta.
 Como parte de la formacion, en el codigo desarrollamos la interfaz grafica con c++, al estilo de las
 primeras interfaces gráficas. 
  - Al entrar al sistema la primera pantalla es
+
+
  ![image](https://user-images.githubusercontent.com/59323925/116297756-39e66980-a761-11eb-9eb8-6318c961ef54.png)
  
  
